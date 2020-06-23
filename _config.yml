@@ -120,7 +120,6 @@ author:
 
 # Site Footer
 footer:
-  email            : "se940318@naver.com"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -140,9 +139,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-      - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:se940318@naver.com"
 
 
 # Reading Files
