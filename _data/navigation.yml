@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title : "Category"
+  - title : ""
     url : /categorys/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
