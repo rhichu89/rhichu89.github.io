@@ -1,7 +1,7 @@
 ---
 title: "이 블로그 설명서"
 permalink: /about/
-layout: archive
+layout: single
 ---
 
 ## rhichu89.github.io 블로그
