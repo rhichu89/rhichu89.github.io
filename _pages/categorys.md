@@ -1,6 +1,6 @@
 ---
 title : "카테고리"
-permalink:/category/
+permalink:/categorys/
 layout : single
 ---
 
