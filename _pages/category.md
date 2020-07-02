@@ -3,4 +3,4 @@ title : "카테고리"
 permalink:/category/
 layout : single
 ---
-카테고리 
+Category List 
