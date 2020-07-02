@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: rhichu89.github.io/about
-  - title : "vue.js"
-    url : rhichu89.github.io/vue.js
+  - title : "Category"
+    url : rhichu89.github.io/category
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
