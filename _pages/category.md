@@ -1,7 +1,7 @@
 ---
 title : "카테고리"
 permalink:/category/
-layout : archive
+layout : single
 ---
 
 ##Category List 
